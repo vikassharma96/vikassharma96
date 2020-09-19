@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 <h3 align="center">I'm a Software Engineer 󠀠󠀠👨🏽‍💻 󠀠󠀠󠀠<br>
 3+ years of professional experience in Mobile Application Development using Android, React Native and Xamarin. Experience in developing applications with Augmented Reality(AR) and Virtual Reality(VR) and for Wearable Glasses.
   <br>
-  <h4 align="center">Good Understanding of problem solving using data structures and algorithm.</>
-  <br>
-  <br>
   <h4 align="center">Open Source contributor and like to solve real-life problems, with a mindset of optimization.</>
+  <br>
+  <h5 align="center">Good Understanding of problem solving using data structures and algorithm.</>
   <br>
 </h3>
 
