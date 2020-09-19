@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <br>
   <h4 align="center">Open Source contributor and like to solve real-life problems, with a mindset of optimization.</>
   <br>
-  <h5 align="center">Good Understanding of problem solving using data structures and algorithm.</>
+  <h5 align="center">Good Understanding of problem solving using <b>data structures and algorithm</b>.</>
   <br>
 </h3>
 
