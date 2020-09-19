@@ -23,10 +23,10 @@ Here are some ideas to get you started:
   <br>
 </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vikassharma96" alt="vikassharma96" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vikassharma96&color=green" alt="vikassharma96" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vikassharma96&show_icons=true&count_private=true" alt="vikassharma96" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassharma96&hide=html" alt="vikassharma96" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vikassharma96&show_icons=true&count_private=true&theme=dark" alt="vikassharma96" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassharma96&hide=html&layout=compact&langs_count=15" alt="vikassharma96" /> </p>
 
 
 - 📫 󠀠󠀠 How to reach me **vks.sharmavikas96@gmail.com**
