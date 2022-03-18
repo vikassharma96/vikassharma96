@@ -1,41 +1,31 @@
-<!-- ### Hi there 👋 -->
+<!-- ### Hi there 👋,  -->
 
 <!--
 **vikassharma96/vikassharma96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on React Native
-- 🌱 I’m currently learning Backend Development
-- 👯 I’m looking to collaborate on Mobile Development Projects
-- 🤔 I’m looking for help with React Native
-- 💬 Ask me about Mobile Application Development, Data Structures and Algorithms
-- 📫 How to reach me: vks.sharmavikas96@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Coding helps to make the world become more open and connected.
 -->
+### Hi there 👋, I am Vikas Sharma
 
-<h1 align="center">Hi there 👋 my name is Vikas Sharma</h1>
-<h3 align="center">I'm a Software Engineer 󠀠󠀠👨🏽‍💻 󠀠󠀠󠀠<br>
-4+ years of professional experience in Mobile Application Development using native Android/iOS and cross platform framework like React Native and Xamarin. Experience in developing applications for Wearable Glasses using Vuzix M300 sdk and with Augmented Reality(AR) and Virtual Reality(VR).
-  <br>
-  <h4 align="center">Open Source contributor and like to solve real-life problems, with a mindset of optimization.</>
-  <br>
-  <h5 align="center">Good Understanding of problem solving using <b>data structures and algorithm</b>.</>
-  <br>
-</h3>
+![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![image](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vikassharma96&color=green" alt="vikassharma96" /> </p>
+- 🧑🏻‍💻 Working on cross platform mobile frameworks
+- 🦿 Learning backend development
+- 🌎 Open source contributor
+- 🤝 Mentor
+- 📫 󠀠󠀠**teckudos@gmail.com**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vikassharma96&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs" alt="vikassharma96" /> </p>
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassharma96&hide=html&layout=compact&langs_count=10" alt="vikassharma96" /> </p> -->
+<img src="https://komarev.com/ghpvc/?username=vikassharma96&color=green" alt="vikassharma96" />
+<img src="https://github-readme-stats.vercel.app/api?username=vikassharma96&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs" alt="vikassharma96" />
 
-
-- 📫 󠀠󠀠 How to reach me **vks.sharmavikas96@gmail.com**
-
-
-<p align="center">
-<a href="https://www.linkedin.com/in/vikassharma96/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="vikassharma96" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/10453249/vikas-sharma" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="vikassharma96" height="30" width="30" /></a>
-<a href="https://vikassharma96.github.io/" target="blank"><img align="center" src="https://img.icons8.com/color/240/chrome--v1.png" alt="vikassharma96" height="30" width="30" /></a>
-</p>
+<a href="https://www.linkedin.com/in/vikassharma96/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vikassharma96" /></a>
+<a href="https://stackoverflow.com/users/10453249/vikas-sharma" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="vikassharma96" /></a>
+<a href="https://twitter.com/vikasksharma96" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="vikassharma96" /></a>
+<a href="https://vikassharma96.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="vikassharma96" /></a>
